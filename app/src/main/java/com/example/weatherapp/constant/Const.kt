@@ -11,6 +11,7 @@ class Const {
 
         const val colorBg1 = 0xFF08203E
         const val colorBg2 = 0xFF557C93
+        const val cardColor = 0xFF333639
 
         const val LOADING = "Loading..."
         const val NA = "N/A"
